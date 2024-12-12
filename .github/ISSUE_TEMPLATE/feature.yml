@@ -34,6 +34,7 @@ body:
         - Mac
         - Linux
         - Mobile
+        - Selections
   - type: textarea
     id: feature-details
     attributes:
